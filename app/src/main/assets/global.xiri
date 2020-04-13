@@ -1,0 +1,23 @@
+﻿{
+	"_appname": "天普语音服务",
+	"_appid": "",
+	"_sdk_version": "2",
+	"_pkgname": "com.h3launcher",
+	"_video": {
+		"mode": "text"
+	},
+	"_channel": [
+		"yx-windsd-test"
+	],
+	"_commands": {
+		"music": [
+			"$P(_MUSIC)"
+		],
+		"ktv": [
+			"$P(_KTV)"
+		]
+	}
+}
+iq0SVeWslrCKnbpvsb9OQEispNP8QZsA0T0ywGHRFczc2ShbyfaOZX37BWWNwDJ/SP7LSjdeNKbr
+uRVKB1nBLYviHUSPeo4snTxnEBPc3B5nZdr/6h/XVisXzrDjR7jT8diJY4PBNF1PIgmfu2g9k4zx
+VcAOaYg4iPfrSSh8viw=
